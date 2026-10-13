@@ -4,7 +4,7 @@ MATLAB repository featuring implementations of advanced and implicit numerical m
 
 ---
 
-## 📋 Description
+## Description
 
 This project extends the classical study of solving Initial Value Problems (IVPs) for ODEs. It includes:
 * **Implicit and Multistep Numerical Methods**: Implementations of Adams-Bashforth, Adams-Moulton, Milne-Simpson, Nyström, Implicit Runge-Kutta, and Implicit Taylor methods[cite: 137].
@@ -14,7 +14,7 @@ This project extends the classical study of solving Initial Value Problems (IVPs
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 Below is a detailed overview of each file and module within the repository[cite: 137]:
 
@@ -48,7 +48,7 @@ Below is a detailed overview of each file and module within the repository[cite:
 
 ---
 
-## 🚀 Requirements and Installation
+## Requirements and Installation
 
 1. **MATLAB** (R2020a or newer recommended)[cite: 137].
 2. **Symbolic Math Toolbox** (required for symbolic order checking functions and tree analysis)[cite: 137].
