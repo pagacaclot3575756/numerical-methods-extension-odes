@@ -58,3 +58,18 @@ Clone this repository or download the compressed source code[cite: 137]:
 ```bash
 git clone [https://github.com/your-username/numerical-methods-extension-odes.git](https://github.com/your-username/numerical-methods-extension-odes.git)
 cd numerical-methods-extension-odes
+```
+## Running the Examples
+
+You can execute any of the example scripts directly in the MATLAB Command Window:
+
+```matlab
+% Mass-Spring system simulation
+run('ejemplo1_masa_resorte.m')
+
+% Lake pollution compartment model simulation
+run('ejemplo2_compartimentos_lagos.m')
+
+% Linearized tumor growth model simulation
+run('ejemplo3_tumor_linealizado.m')
+```
