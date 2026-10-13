@@ -1,4 +1,7 @@
-# numerical-methods-extension-odes
+# Numerical-methods-extension-odes
+
+![MATLAB](https://img.shields.io/badge/MATLAB-R2020a%2B-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 MATLAB repository featuring implementations of advanced and implicit numerical methods for solving ordinary differential equations (ODEs), symbolic order-of-convergence analysis, construction of Runge-Kutta collocation formulas, and practical application examples in physical, biological, and ecological systems.
 
@@ -73,3 +76,15 @@ run('ejemplo2_compartimentos_lagos.m')
 % Linearized tumor growth model simulation
 run('ejemplo3_tumor_linealizado.m')
 ```
+## Contributing
+
+Contributions are welcome! If you find a bug or want to propose an improvement:
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature/new-method`).
+3. Commit your changes (`git commit -m 'Add new implicit method'`).
+4. Push to the branch (`git push origin feature/new-method`).
+5. Open a Pull Request.
+
+## License
+
+This project is licensed under the terms included in the [LICENSE](LICENSE) file.
